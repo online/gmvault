@@ -1,3 +1,5 @@
+Обзор на Хабре — http://habrahabr.ru/post/143473/
+
 # Gmvault: Backup and restore your gmail account
 
 Gmvault is a tool for backing up your gmail account and never lose email correspondence.
